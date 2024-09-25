@@ -1,0 +1,41 @@
+O parágrafo 3 tem as seguintes palavras repetidas: que, você, tenha
+O parágrafo 12 tem as seguintes palavras repetidas: que, estão
+O parágrafo 13 tem as seguintes palavras repetidas: que
+O parágrafo 14 tem as seguintes palavras repetidas: kanban
+O parágrafo 17 tem as seguintes palavras repetidas: scrum, por, quadro, que, alguns
+O parágrafo 19 tem as seguintes palavras repetidas: sistema, para
+O parágrafo 21 tem as seguintes palavras repetidas: modelo, kanban, para, desenvolvimento, software, pensamento, com, método
+O parágrafo 23 tem as seguintes palavras repetidas: anderson, método, kanban, com, palavra, “k”, dos
+O parágrafo 24 tem as seguintes palavras repetidas: kanban, como, método, que, forma, framework, implementação
+O parágrafo 25 tem as seguintes palavras repetidas: uma, metodologia, método, kanban
+O parágrafo 27 tem as seguintes palavras repetidas: kanban, que, entrega, valor
+O parágrafo 28 tem as seguintes palavras repetidas: uma
+O parágrafo 30 tem as seguintes palavras repetidas: kanban, características, para
+O parágrafo 31 tem as seguintes palavras repetidas: trabalho
+O parágrafo 32 tem as seguintes palavras repetidas: tempo, preparação
+O parágrafo 33 tem as seguintes palavras repetidas: layout, máquinas, trabalho, reduzir
+O parágrafo 34 tem as seguintes palavras repetidas: padronização
+O parágrafo 35 tem as seguintes palavras repetidas: por, kanban
+O parágrafo 36 tem as seguintes palavras repetidas: para
+O parágrafo 38 tem as seguintes palavras repetidas: kanban
+O parágrafo 39 tem as seguintes palavras repetidas: produção, etapas, que, etapa
+O parágrafo 40 tem as seguintes palavras repetidas: kanban, para, produção, material
+O parágrafo 41 tem as seguintes palavras repetidas: kanban, produção
+O parágrafo 43 tem as seguintes palavras repetidas: uma
+O parágrafo 54 tem as seguintes palavras repetidas: controle, sistema
+O parágrafo 56 tem as seguintes palavras repetidas: vantagens, kanban
+O parágrafo 57 tem as seguintes palavras repetidas: trabalho
+O parágrafo 58 tem as seguintes palavras repetidas: dinamismo, entre, pessoas, trabalho, equipe
+O parágrafo 59 tem as seguintes palavras repetidas: ambiente, colaboração, trabalho, todas
+O parágrafo 60 tem as seguintes palavras repetidas: autonomia
+O parágrafo 61 tem as seguintes palavras repetidas: forma, problemas
+O parágrafo 62 tem as seguintes palavras repetidas: trabalho, esforços, com
+O parágrafo 63 tem as seguintes palavras repetidas: quais, estão, que, sejam
+O parágrafo 64 tem as seguintes palavras repetidas: kanban
+O parágrafo 66 tem as seguintes palavras repetidas: método, que, “comece, pelo, você
+O parágrafo 68 tem as seguintes palavras repetidas: lean
+O parágrafo 69 tem as seguintes palavras repetidas: pensamento, ágil
+O parágrafo 70 tem as seguintes palavras repetidas: sistema, puxado, oposição, para
+O parágrafo 71 tem as seguintes palavras repetidas: seu, valor, para
+O parágrafo 74 tem as seguintes palavras repetidas: que, produto, valor, desejado, carro, por, deslocamento
+O parágrafo 76 tem as seguintes palavras repetidas: que, valor, desperdício, parte
